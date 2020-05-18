@@ -1,8 +1,8 @@
 # Team Members
 Alejandro Jimenez, Levi Cruz, Ryan Espinoza, Alejandro Corona, Emilio Ruiz.
 
-
-
+# Introduction 
+The ball and plate is a system built to understand how balancing systems work in a control system. The sytem cosists of having a ball on top of a flat plate. When an outside force moves the ball to any direction, the plate recognizes the movement and opposes the ball's trajectory to ultimately move the ball back to its original position. The goal of this project is to design and simulate the system,  where the plate's objective is to balance the ball and keep the ball at the center regardless of where the ball moves. 
 
 ## Welcome to GitHub Pages
 
