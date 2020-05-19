@@ -1,5 +1,5 @@
 # Team Members
-Alejandro Jimenez, Levi Cruz, Ryan Espinoza, Alejandro Corona, Emilio Ruiz.
+Alejandro Jimenez, Levi Cruz, Ryan Espinosa, Alejandro Corona, Emilio Ruiz.
 
 # Introduction 
 The ball and plate is a system built to understand how balancing systems work in a control system. The sytem cosists of having a ball on top of a flat plate. When an outside force moves the ball to any direction, the plate recognizes the movement and opposes the ball's trajectory to ultimately move the ball back to its original position. The goal of this project is to design and simulate the system,  where the plate's objective is to balance the ball and keep the ball at the center regardless of where the ball moves. Visual servoying  will be used to get position information of the ball's location. Controls System Engineering by Norman S. Nise 7th edition along with google scholar articles were used a was used to come up with a state space representation of the system among other information.
@@ -29,6 +29,17 @@ Figure (1) represents a simple model of the ball and plate. Figure (2) shows a s
 ![image](https://user-images.githubusercontent.com/65519089/82281933-77365a80-9947-11ea-9d73-d644e2ebe15a.png)
 
 Figure (3)
+
+![image](https://user-images.githubusercontent.com/65519089/82283593-ac44ac00-994b-11ea-83c2-5b60b18fccca.png)
+
+Figure (4)
+
+![image](https://user-images.githubusercontent.com/65519089/82283810-46a4ef80-994c-11ea-8df0-fe97bdd5a899.png)
+
+Figure (5)
+
+
+
 
 # Simulation Code 
 
