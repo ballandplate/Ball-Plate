@@ -17,13 +17,6 @@ Figure (2)
 
 Figure (1) represents a simple model of the ball and plate. Figure (2) shows a simple set up of the model. In order to verify the systems performance, a model was created in Copelliasim to simulate behavior of the system. The model simulates the dynamics/physics of the system and object ineractions. Copelliasim allows us to connect to communicate with an external application (matlab) using a remote
 
-
-
-
-# Sensor Calibration
-
-
-
 # Control Design and Simulations 
 
 ![image](https://user-images.githubusercontent.com/65519089/82283924-997ea700-994c-11ea-96b8-c66e61614ef3.png)
@@ -37,8 +30,6 @@ Figure (4)
 ![image](https://user-images.githubusercontent.com/65519089/82283810-46a4ef80-994c-11ea-8df0-fe97bdd5a899.png)
 
 Figure (5)
-
-
 
 
 # Simulation Code 
