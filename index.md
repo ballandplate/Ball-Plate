@@ -20,6 +20,19 @@ Figure (1) represents a simple model of the ball and plate. Figure (2) shows a s
 
 
 
+# Sensor Calibration
+
+
+
+# Control Design and Simulations 
+
+
+
+# Simulation Code 
+
+
+# References
+
 
 ## Welcome to GitHub Pages
 
