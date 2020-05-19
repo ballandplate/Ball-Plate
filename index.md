@@ -37,6 +37,9 @@ Figure (3)
 
 ![image](https://user-images.githubusercontent.com/65519089/82282222-27a45e80-9948-11ea-9002-fb74321326d8.png)
 
+![image](https://user-images.githubusercontent.com/65519089/82282676-448d6180-9949-11ea-8682-63dd3b12ac7e.png)
+
+
 
 
 
