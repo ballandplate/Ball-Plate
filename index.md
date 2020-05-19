@@ -33,6 +33,8 @@ Figure (1) represents a simple model of the ball and plate. Figure (2) shows a s
 
 # References
 
+Awtar, Shorya, et al. "Mechatronic design of a ball-on-plate balancing system." Mechatronics 12.2 (2002): 217-228.
+
 
 ## Welcome to GitHub Pages
 
