@@ -18,43 +18,6 @@ Figure (2)
 Figure (1) represents a simple model of the ball and plate. Figure (2) shows a simple set up of the model. In order to verify the systems performance, a model was created in Copelliasim to simulate behavior of the system. The model simulates the dynamics/physics of the system and object ineractions. Copelliasim allows us to connect to communicate with an external application (matlab) using a remote.
 A vision sensor was used in the simulation of the ball and plate project. At first calibration was needed as we tried to have the sensor follow the ball as it moved. After considering the movement of the plate as well. It was decided it would be best to have the vision sensor placed where the entire system was in the field of view, thus eliminating the need for calibrating the sensor.
 
-
-Given the ball and plate system and using Newton's laws of motion, the following equation can be arrived at describing the acceleration of the ball given the angle of the servo.
-
-a(t) =2mgrarmrball2L(mr2 + J)(t) = Kbb(t) 
-
-Taking the Laplace transform we arrive at the transfer function relating the servo angle to the ball position
-
-s2X(s) = Kbb(s)  Pbb= Kbbs2
-
-The transfer function for the servo itself is given by
-
-Ps(s) = Ks(s + 1)
-
-Combining these two we arrive that the transfer function for the whole system:
-
-P = KKbbs3(s + 1)
-
-For our model 𝝉 = 0.0248 and K = 1.53.
-
-To design for the servo loop the assumption 𝜃 actual = 𝜃 desired which allows us to reduce the system to a second order system such that:
-
-P= Kbbkps2 + Kbbkds + Kbbkp
-
-Where kd and kp  are the derivative and proportional gains respectively.
-
-For our design we specify a percent overshoot of 10% and a setting time of 1s. Calculating for these specifications we arrive at the following parameters for our system
-
-kd  = 0.95
-kp  = 1.81
-wn  = 2.25 rad/s
-𝛇  = 0.59
-
-
----------------------------------------------------
-Figure __ shows the step response of the system. The desired position was set to 3cm. The peak value of 3.352cm (about 10% overshoot) was reached at 0.985s ≈ 1s as designed 
-
-
 # Control Design and Simulations 
 
 ![image](https://user-images.githubusercontent.com/65519089/82283924-997ea700-994c-11ea-96b8-c66e61614ef3.png)
