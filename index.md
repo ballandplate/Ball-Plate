@@ -32,6 +32,14 @@ Figure (3)
 
 # Simulation Code 
 
+![image](https://user-images.githubusercontent.com/65519089/82282128-f2980c00-9947-11ea-9445-72627e08cab6.png)
+
+
+![image](https://user-images.githubusercontent.com/65519089/82282222-27a45e80-9948-11ea-9002-fb74321326d8.png)
+
+
+
+
 
 # References
 
