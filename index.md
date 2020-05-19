@@ -11,7 +11,7 @@ Upon reading this report, you will find the Modeling System modeled in Simulink 
 
 Figure 1. The ball and pate is simulated using the CopelliaSim. It delivers a good understanding on how the ball and plate interact. 
 
-
+![image](https://user-images.githubusercontent.com/65519089/82276986-a1821b00-993b-11ea-94bb-55dc06e2e195.png)
 
 Figure 2. A simple setup for the simulated ball and plate 
 
