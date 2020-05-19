@@ -8,7 +8,7 @@ Upon reading this report, you will find the Modeling System modeled in Simulink 
 
 # Modeling & Mathematical Representation of the system
 
-![image](https://user-images.githubusercontent.com/65519089/82188417-afd02880-98a2-11ea-867e-4ab70e35f214.png)
+
 
 
 
