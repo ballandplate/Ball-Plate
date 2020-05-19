@@ -15,7 +15,8 @@ Figure (1)
 
 Figure (2)
 
-Figure (1) represents a simple model of the ball and plate. Figure (2) shows a simple set up of the model. In order to verify the systems performance, a model was created in Copelliasim to simulate behavior of the system. The model simulates the dynamics/physics of the system and object ineractions. Copelliasim allows us to connect to communicate with an external application (matlab) using a remote
+Figure (1) represents a simple model of the ball and plate. Figure (2) shows a simple set up of the model. In order to verify the systems performance, a model was created in Copelliasim to simulate behavior of the system. The model simulates the dynamics/physics of the system and object ineractions. Copelliasim allows us to connect to communicate with an external application (matlab) using a remote.
+A vision sensor was used in the simulation of the ball and plate project. At first calibration was needed as we tried to have the sensor follow the ball as it moved. After considering the movement of the plate as well. It was decided it would be best to have the vision sensor placed where the entire system was in the field of view, thus eliminating the need for calibrating the sensor.
 
 # Control Design and Simulations 
 
@@ -27,10 +28,11 @@ Figure (3)
 
 Figure (4)
 
-![image](https://user-images.githubusercontent.com/65519089/82283810-46a4ef80-994c-11ea-8df0-fe97bdd5a899.png)
+![image](https://user-images.githubusercontent.com/65519089/82292173-39453080-995f-11ea-8394-62c0faf5f416.png)
 
 Figure (5)
 
+Figures 3-5 is a simulated representation of the system. Figure (4) and Figure (5) show a square wave response and step response accordingly. Unfortunately, for linking the CopelliaSim to Simulink/Matlab, there were many issues that came up. Libraries and files needed were created, as well as having them in the same folder but didn’t have any luck of successfully linking the two models. When the IP numbers and PORT were changed, Matlab gave an error stating that our computers were operating at 64 bits while Matlab was operating at 32 bits which didn’t allow us to link the two systems.
 
 # Simulation Code 
 
@@ -40,8 +42,6 @@ Figure (5)
 ![image](https://user-images.githubusercontent.com/65519089/82282222-27a45e80-9948-11ea-9002-fb74321326d8.png)
 
 ![image](https://user-images.githubusercontent.com/65519089/82282676-448d6180-9949-11ea-8682-63dd3b12ac7e.png)
-
-
 
 
 # References
