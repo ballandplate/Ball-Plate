@@ -48,3 +48,7 @@ Figure (5)
 
 Awtar, Shorya, et al. "Mechatronic design of a ball-on-plate balancing system." Mechatronics 12.2 (2002): 217-228.
 
+Muratore, Fabio, Michael Gienger, and Jan Peters. "Assessing Transferability from Simulation to
+Reality for Reinforcement Learning." IEEE transactions on pattern analysis and machine
+intelligence (2019).
+
