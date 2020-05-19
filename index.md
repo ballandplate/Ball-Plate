@@ -7,6 +7,7 @@ The ball and plate is a system built to understand how balancing systems work in
 Upon reading this report, you will find the Modeling System modeled in Simulink and CoppeliaSim, Sensor Calibration (Add info here about sensor calibration), Controller Design and Simulation (add info here about controller Design and Simulation) along with the appendix.
 
 # Modeling & Mathematical Representation of the system
+![image](https://user-images.githubusercontent.com/65519089/82275590-ffacff00-9937-11ea-9ebb-6d221d2b0511.png)
 
 
 
