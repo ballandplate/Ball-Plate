@@ -26,8 +26,7 @@ Figure (1) represents a simple model of the ball and plate. Figure (2) shows a s
 
 # Control Design and Simulations 
 
-![image](https://user-images.githubusercontent.com/65519089/82283810-46a4ef80-994c-11ea-8df0-fe97bdd5a899.png)
-
+![image](https://user-images.githubusercontent.com/65519089/82283924-997ea700-994c-11ea-96b8-c66e61614ef3.png)
 
 Figure (3)
 
